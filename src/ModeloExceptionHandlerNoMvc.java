@@ -178,6 +178,8 @@ public class ModeloExceptionHandlerNoMvc {
 //                .build();
 //        return exceptionDetails;
 //    }
+        
+//testando o pull
 
 
 }
